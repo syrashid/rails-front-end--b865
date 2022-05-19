@@ -9,3 +9,10 @@ import "channels"
 
 Rails.start()
 Turbolinks.start()
+
+import "bootstrap";
+import "controllers";
+
+console.log("Hello from application.js")
+
+
